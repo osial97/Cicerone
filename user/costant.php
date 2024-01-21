@@ -1,0 +1,14 @@
+<?php
+define('COD_ATTIVITA',"codAttivita");
+define('COD_TIPO',"tipo");
+define('ID_UTENTE',"idUtente");
+define('CITTA',"citta");
+define('LUOGO',"luogo");
+define('CICERONE',"cicerone");
+define('COGNOME',"cognome");
+define('EMAIL',"email");
+define('DATA',"data");
+define('DATA_NASCITA',"dataNascita");
+define('INDIRIZZO',"indirizzo");
+define('TIPO_ATTIVITA',"tipoAttivita");
+?>
